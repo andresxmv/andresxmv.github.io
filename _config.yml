@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cristian Larroulet"
+title                    : "Cristián  Larroulet"
 title_separator          : "-"
-name                     : &name "Cristian Larroulet"
+name                     : &name "Cristián  Larroulet"
 description              : &description "personal description"
 url                      :  https://andresxmv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
